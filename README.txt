@@ -25,9 +25,28 @@ It contains snapshots of my professional experience, research, and side projects
 ## 🚀 Getting Started
 
 1. **Clone** the repo  
-   ```plaintext 
-   bash
+   ```bash
    git clone https://github.com/felipeortizh/felipeortizh.github.io.git
    cd felipeortizh.github.io
-```
 
+2. Preview locally
+   Simply open index.html in your browser, or run a tiny server:
+   python -m http.server 8000 
+   # then visit http://localhost:8000
+
+📂 Repository Structure
+
+.
+├── assets/              # CSS, SCSS and helper scripts
+├── images/              # Illustrations & banners
+├── index.html           # Landing page
+├── aboutme.html         # Bio, CV link
+├── experience.html      # Career timeline
+├── projects.html        # Project portfolio
+├── publications.html    # Research output
+├── teaching.html        # Teaching history
+├── academia.html        # Academic background
+├── skills.html          # Skill matrix
+├── hobbies.html         # Personal interests
+├── LICENSE.txt
+└── README.md            # You are here
