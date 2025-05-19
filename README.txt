@@ -25,7 +25,9 @@ It contains snapshots of my professional experience, research, and side projects
 ## 🚀 Getting Started
 
 1. **Clone** the repo  
+   ```plaintext 
    bash
    git clone https://github.com/felipeortizh/felipeortizh.github.io.git
    cd felipeortizh.github.io
+```
 
