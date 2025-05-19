@@ -1,9 +1,7 @@
 # Felipe Ortiz — Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Site-felipeortizh.github.io-blue?logo=githubpages)](https://felipeortizh.github.io)
-[![License: CC-BY-3.0](https://img.shields.io/badge/License-CC%20BY%203.0-brightgreen)](LICENSE.txt)
 
-A personal portfolio showcasing my work as a **Data Scientist / AI Engineer**.  
+A personal portfolio showcasing my work as a **Data Scientist | AI Engineer**.  
 It contains snapshots of my professional experience, research, and side projects, plus resources that have helped me grow in the fields of machine learning, quantum photonics, and software engineering.
 
 ---
