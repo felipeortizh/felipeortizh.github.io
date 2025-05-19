@@ -1,4 +1,4 @@
-#Felipe Ortiz — Portfolio
+# Felipe Ortiz — Portfolio
 
 
 A personal portfolio showcasing my work as a **Data Scientist | AI Engineer**.  
@@ -6,7 +6,7 @@ It contains snapshots of my professional experience, research, and side projects
 
 ---
 
-##📌 Key Sections
+## 📌 Key Sections
 
 | Page | What you’ll find |
 |------|------------------|
@@ -22,10 +22,10 @@ It contains snapshots of my professional experience, research, and side projects
 
 ---
 
-##🚀 Getting Started
+## 🚀 Getting Started
 
 1. **Clone** the repo  
-   ```bash
+   bash
    git clone https://github.com/felipeortizh/felipeortizh.github.io.git
    cd felipeortizh.github.io
 
