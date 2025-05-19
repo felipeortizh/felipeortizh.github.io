@@ -37,7 +37,7 @@ It contains snapshots of my professional experience, research, and side projects
 
 📂 Repository Structure
 
-
+```
 ├── assets/              # CSS, SCSS and helper scripts
 ├── images/              # Illustrations & banners
 ├── index.html           # Landing page
@@ -51,3 +51,4 @@ It contains snapshots of my professional experience, research, and side projects
 ├── hobbies.html         # Personal interests
 ├── LICENSE.txt
 └── README.md            # You are here
+```
