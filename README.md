@@ -29,10 +29,10 @@ It contains snapshots of my professional experience, research, and side projects
    git clone https://github.com/felipeortizh/felipeortizh.github.io.git
    cd felipeortizh.github.io
 
-2. Preview locally
+2. Preview locally.
    Simply open index.html in your browser, or run a tiny server:
    python -m http.server 8000 
-   # then visit http://localhost:8000
+   then visit http://localhost:8000
 
 📂 Repository Structure
 
